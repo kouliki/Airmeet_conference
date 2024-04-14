@@ -1,0 +1,6 @@
+
+Running Gradle task 'assembleRelease'...                        
+[ZEGO][PLUGIN] Download native dependency
+[ZEGO][PLUGIN] Native version: 3.13.2.37365
+[ZEGO][PLUGIN] The specified version SDK already exists!
+Running Gradle task 'assembleRelease'...                          160.4s

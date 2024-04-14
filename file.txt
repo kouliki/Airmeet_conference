@@ -1,0 +1,2 @@
+1. flutter build apk --split-debug-info=debug-info--obfuscate--target-platform=android-arm,android-arm64,android->x64--shrink
+2. flutter build apk --release
